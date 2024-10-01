@@ -4,4 +4,3 @@ aprendiendo git con este ejercicio
 
 Esto es un cambio
 
-Esto es otro cambio
